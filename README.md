@@ -1,2 +1,10 @@
-# NETWORKWALKS-Ibrar-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-My first cybersecurity internship project documenting lab setup, configuration, practical exercises and troubleshooting
+# Cybersecurity Lab Setup
+
+## Project Overview
+This project is part of my cybersecurity internship.
+
+## Objectives
+- Understand cybersecurity lab environments.
+- Configure the required tools.
+- Practice networking and security fundamentals.
+
